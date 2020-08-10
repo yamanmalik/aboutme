@@ -1,0 +1,128 @@
+
+body{
+	
+	
+	
+	background-color: aliceblue;
+}
+
+p{
+	font-size: 18px;
+
+	
+	
+}	
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+h5{
+	padding
+}
+
+li{
+	float:left;
+	}
+
+
+a{
+	display: block;
+	padding: 8px;
+	color: white;
+	font-size: 20px;
+	
+}
+a:hover{
+	text-decoration: none;
+}
+
+nav{
+	opacity: 0.92;
+	height: 7%;
+	
+
+	
+}
+
+.cover{
+  	/* Full height */
+  	height: 100vh; 
+  	font-family: "Calibri";
+  	background-image: url("toronto.jpg");
+  	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+#skills{
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top:3%;
+
+}
+
+#aboutme{
+	padding-top:3%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+#projects{
+	padding-top:3%;
+	padding-left: 10%;
+	padding-right: 10%;
+
+}
+
+
+#resume{
+	padding-top:3%;
+	padding-left: 10%;
+	padding-right: 10%;
+
+}
+
+
+#heading{
+	padding-top: 290px;
+	font-size: 10vh;
+	color: black;
+}
+
+.progress{
+	margin-top:2%;
+	
+	margin-bottom:2%;
+	border-radius: 20px;
+	
+	
+	
+}
+.progress-bar{
+	border-radius: 20px;
+
+
+
+}
+
+
+
+
+
+
+h1{
+
+	
+	
+}
+
+
+img{
+	align-self: left;
+}
