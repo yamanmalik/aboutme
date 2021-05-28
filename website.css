@@ -20,9 +20,6 @@ ul{
 
 }
 
-h5{
-	padding
-}
 
 li{
 	float:left;
@@ -110,6 +107,7 @@ nav{
 
 
 #heading{
+	
 	padding-top: 20%;
 	font-size: 5vw;
 	color: whitesmoke;
@@ -117,9 +115,13 @@ nav{
  
  	top: 0;
  	width: 100%
+
+
+
 }
 
 #subheading{
+
 
 	padding-top: 28%;
 	font-size: 3vw;
@@ -128,6 +130,7 @@ nav{
  
  	top: 0;
  	width: 100%
+
 
 }
 
