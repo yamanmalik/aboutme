@@ -48,28 +48,33 @@ nav{
 
 .cover{
   	/* Full height */
-  	height: auto; 
+  	height: 100vh; 
   	font-family: "Calibri";
   	
   	
     text-align: center;
     overflow: hidden;
+    position:  relative;
+    
+
 }
 
 .cover video{
 	
-	 max-width: 100%;
-	 max height: 100% 
+	position: absolute;
+	top: 0;
+	left: 0;
+
 
 	 width:  auto;
 	 height:  auto;
 
-	 position:  fill;
 	
   	 overflow: : hidden;
   	 text-align: center;
-  	 z-index: 0;
-  	 display: flex;
+  	
+  	margin: 0 auto;
+  	
 
 
 }
@@ -108,8 +113,8 @@ nav{
 
 #heading{
 	
-	padding-top: 20%;
-	font-size: 5vw;
+	padding-top: 34vh;
+	font-size: 8vw;
 	color: whitesmoke;
 	position: absolute;
  
@@ -118,13 +123,14 @@ nav{
 
 
 
+
 }
 
 #subheading{
 
 
-	padding-top: 28%;
-	font-size: 3vw;
+	padding-top: 54vh;
+	font-size: 3.25vw;
 	color: whitesmoke;
 	position: absolute;
  
